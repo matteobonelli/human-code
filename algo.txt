@@ -1,0 +1,37 @@
+1.  Vado in fumetteria per comprare il pacchetto
+    1.1 Se la fumetteria è chiusa, vado dal giornalaio
+2. Compro il pacchetto
+    2.1 Pago con la carta
+    2.2 Se il POS è rotto
+        2.2.1 pago in contanti
+3. Torno a casa
+    3.1 Entro in camera
+4. Apro il pacchetto con un paio di forbici
+5. Controllo le carte che ho trovato
+6. Apro l'album, e controllo la prima figurina sbustata sfogliando le pagine dell'album
+    6.1 Se la carta che ho trovato è doppia: la metto in un mazzetto di carte doppie
+    6.2 Se non ho acnora creato il mazzetto di carte doppie:
+        6.2.1 aggiungo le carte doppie sbustate al nuovo mazzetto 
+    6.3 Se la carta che ho trovato è nuova: la incollo nell'album
+    6.4 Ripeti finchè hai controllato tutte le carte sbustate
+7. Se ho finito l'album
+    7.1 non compro più bustine di figurine
+    7.2 se ho ancora un mazzetto di carte doppie
+        7.2.1 le regalo || le tengo || le vendo
+- se non ho finito l'album ma non ho doppie da scambiare:
+        - non vado a casa dei miei amici 
+- se non ho finito l'album e ho doppie da scambiare
+    7.3 vado a scambiare le figurine:
+        7.3.1 Controllo i mazzi di carte doppie dei miei amici, se trovo una carta che mi manca tra queste:
+        7.3.2. Chiedo di scambiare la sua carta per una delle mie doppie:
+        7.3.3 Se accetta:
+            - Lo scambio avviene
+        7.3.4 Se rifiuta:
+            - Lo scambio non avviene
+        7.3.5 Riprovo per tutte le carte che mi mancano e che i miei amici hanno
+    7.3 Se ho tutte le carte dei miei amici:
+        7.3.1 Lo scambio non avviene
+    7.4 se non ho amici con cui scambiare le carte
+        7.4.1 le tengo || le vendo
+8. Se vendo le figurine doppie, con i soldi ricavati
+    - torno al punto 1    
